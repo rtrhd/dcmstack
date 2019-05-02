@@ -4,7 +4,7 @@ not import dcmstack.
 import sys
 
 _version_major = 0
-_version_minor = 7
+_version_minor = 8
 _version_micro = 0
 _version_extra = 'dev'
 __version__ = "%s.%s.%s%s" % (_version_major,
@@ -43,6 +43,7 @@ AUTHOR              = "Brendan Moloney"
 AUTHOR_EMAIL        = "moloney@ohsu.edu"
 MAINTAINER          = "Brendan Moloney"
 MAINTAINER_EMAIL    = "moloney@ohsu.edu"
+URL                 = "https://github.com/moloney/dcmstack"
 DESCRIPTION         = description
 LICENSE             = "MIT license"
 CLASSIFIERS         = CLASSIFIERS
